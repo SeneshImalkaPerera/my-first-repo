@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account
+I am Senesh Imalka Perera.I am new to github
